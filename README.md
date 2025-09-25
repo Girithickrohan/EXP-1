@@ -49,19 +49,12 @@ b.  KCL:
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d07e20b1-7a54-4e26-af5f-39f4b4b1dad2" />
 
 ## Calculation and Tabular of KVL AND KCL:
-
 ![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_1.jpg)
-
 ![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_2.jpg)
-
 ![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_3.jpg)
-
 ![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_4.jpg)
-
 ![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_5.jpg)
-
 ![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_6.jpg)
-
 ![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_7.jpg)
 
 RESULT:
