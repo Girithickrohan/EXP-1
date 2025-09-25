@@ -51,20 +51,17 @@ b.  KCL:
 
 ![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_1.jpg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_2.jpg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_3.jpg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_4.jpg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_5.jpg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_6.jpg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-1/blob/main/Document_7.jpg)
 
-![img]()
 RESULT:
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
-
-ed.
